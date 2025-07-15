@@ -1,0 +1,5 @@
+123456		Zxcvbnmlfy98
+启动数据库，进入终端：1. mysql -u root -p   2.  USE `springboot073x3`;
+后端: （新建终端：1.cd springboot073x3  2. mvn clean spring-boot:run）
+前端：(新建终端：1.cd E:\springboot092\springboot073x3\src\main\resources\admin\admin   2. npm run serve）
+C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin 
